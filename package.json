@@ -1,0 +1,22 @@
+{
+  "name": "nz-migration-study",
+  "version": "1.0.0",
+  "description": "Project to analyze election data and study for NZ migration",
+  "main": "fetch_election_data.ts",
+  "scripts": {
+    "start": "ts-node fetch_election_data.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "NZ",
+    "ElectionAnalysis"
+  ],
+  "author": "aTamQuietCode",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "axios": "^1.4.0"
+  }
+}
