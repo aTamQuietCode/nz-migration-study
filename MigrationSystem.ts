@@ -11,8 +11,7 @@ class Migrator implements Citizen {
         public name: string,
         public status: 'Ready' | 'Searching' | 'Migrated',
         public assets: number
-    )
-    {}
+    ) {}
 
     // 資産状況を表示するメソッド
     displayStatus(): void {
