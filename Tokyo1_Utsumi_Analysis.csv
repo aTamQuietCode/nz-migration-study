@@ -1,0 +1,6 @@
+Timestamp,Ward,CountingProgress,Yamada_Miki(LDP),Kaieda_Banri(CDP),Utsumi_Satoshi(Ind),Ratio_CDP_Utsumi,Status
+2026-02-08T22:00:00,Tokyo-1,0.5%,800,500,200,2.50,Early_Sample
+2026-02-08T23:00:00,Tokyo-1,25.4%,35000,22000,8800,2.50,Ratio_Locked
+2026-02-09T00:00:00,Tokyo-1,58.2%,62000,39000,15600,2.50,The_Cliff_Detected
+2026-02-09T01:00:00,Tokyo-1,88.5%,75000,47000,18800,2.50,Locked
+2026-02-09T03:00:00,Tokyo-1,100.0%,82622,51830,20800,2.49,Final_Confirmed
